@@ -1,0 +1,6 @@
+@KnowledgeProject.BackendServer_HostAddress = http://localhost:5265
+
+GET {{KnowledgeProject.BackendServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
